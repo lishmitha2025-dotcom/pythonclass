@@ -108,14 +108,8 @@
         #print(ch)
 
 
-
-data = " They walk to school and The dog jumps over to the wall "
+data ="hello world"
 vowels = "aeiouAEIOU"
-
-for word in set(data):
-    if word in vowels:
-        print(word)
-
-
-
-
+for ch in set(data):
+    if ch in vowels:
+        print(ch)
