@@ -117,6 +117,49 @@
 # print(data[:5:2])
 
 
+# data = [5, 10, 15, 20, 25, 30]
+
+# data.sort()
+# print(data[2:])
+# print(data[-3:])
+
+# names = ["Ravi", "Anu", "Kiran", "Anu", "Manoj", "Ravi"]
+
+# data = (set(names))
+# print(data)
+
+# data =(set(list(names)))
+# print(data)
+
+# data = [5, 10, 15, 20, 25, 30]
+# total = sum(data)
+# avg = sum(data)/len(data)
+# min = min(data)
+# max = max(data)
+# print(total)
+# print(avg)
+# print(min)
+# print(max)
+
+
+# data = [[10, 20], [30, 40], [50, 60]]
+
+# (data[1][1])= 45
+
+# print(data)
+
+
+# numbers = [10, 20, 30, 40, 50, 60]
+
+# result = numbers[2:] +  numbers[:2]
+# print(result)
+
+# print(numbers[:2])
+
+
+
+
+
 
 
 
