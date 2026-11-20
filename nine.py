@@ -90,9 +90,7 @@
 
 # print(string1 * 5)
 
-# print("-" * 10)
-# print("\nwelcome to python\n")
-# print("-" * 10)
+
 
 # devis1 = 60
 # devis2 = 30
@@ -143,26 +141,4 @@
 # print(data2)
 # print(data3)
 
-# data1, data2 = data2, data1
-# data1, data2 = data2, data1
-# print(data1)
-# print(data2)
-# num1 = 10
-# num1 = num1 + 1 
-# print(num1)
-# num1 += 1
-# print(num1)
 
-
-# data = 30
-# data -= 10
-# print(data)
-# data -= 5
-# print(data)
-
-# data1 = 10
-# data2 = 20
-# print(data1 == data2)
-data1 = 10
-data2 = 20
-print(data1 == data2-10)
