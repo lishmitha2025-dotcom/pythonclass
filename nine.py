@@ -141,4 +141,83 @@
 # print(data2)
 # print(data3)
 
+# num1, num2, num3 = [1, 'abc', True]
+# print(num1)
+# print(num2)
+# print(num3)
+
+# num = [1 , 'abc' , True]
+# num5 = num
+
+# print(num)
+# print(num5)
+
+# data1, data2, data3 = [1, 'abc', True, 'def']
+# print(data1)
+# print(data2)
+# print(data3)
+
+# data1, data2, data3 = [1, 'abc']
+# print(data1)
+# print(data2)
+# print(data3)
+
+
+# data1 , data2 = 50 , 100
+# print(f"initial value of data1 = {data1}")
+# print(f"initial value of data2 = {data2}")
+
+
+# data1, data2 = data2, data1
+
+# print(f" after initial value of data1 = {data1}")
+# print(f"after initial value of data2 = {data2}")
+
+# num1 = 10
+# num1 = num1 + 1
+# num1 += num1
+# print(num1)
+
+# data1 = 10
+# data2 = 20
+# print(data1 == data2)
+# output = data1 = data2-5
+# print(output)
+
+# print("* * *" * 19)
+# isItRaining = True
+# print(not(isItRaining))
+
+# isItRaining = False
+# print(not(isItRaining))
+
+
+# a = 100
+# b = 100
+# print(a == b)
+
+# x = 100
+# y = x
+# print(x is y)
+
+
+# a = 100 , 101
+# b = 100
+# print(a == b)
+
+# x = 100 , 101
+# y = x
+# print(x is y)
+
+
+# a = [1, 2, 3, 4]
+# b = [1, 2, 3, 4]
+# c = a
+# print(a, id(a))
+# print(b, id(b))
+# print(a == b, a is b)
+# print(a == c, a is c)
+
+# print(a == c,  a is not c)
+# print(a == c,  a is c)
 
