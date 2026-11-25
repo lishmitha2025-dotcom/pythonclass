@@ -102,6 +102,9 @@
 # print(output)
 
 # print("* * *" * 19)
+
+
+
 # isItRaining = True
 # print(not(isItRaining))
 
@@ -120,7 +123,7 @@
 
 # a = 100 , 101
 # b = 100
-# print(a == b)
+# print(b)
 
 # x = 100 , 101
 # y = x
@@ -151,7 +154,7 @@
 # print( a >= 10)
 # print( a <= 10)
 
-# # print("Python" == "python")
+# print("Python" == "python")
 # print("Apple" < "Banana")
 
 # print(2 + 3 ** 2)
@@ -229,7 +232,7 @@
 # output = data1 = data2-5
 # print(output)
 
-# print("* * *" * 19)
+print("* * *" * 19)
 # isItRaining = True
 # print(not(isItRaining))
 
@@ -695,8 +698,8 @@
 #     print("num2 is greates")
 
 
-num1 = 30
-num2 = 32
+# num1 = 30
+# num2 = 32
 
 # if num1 > num2:
 #     out = "num1"
@@ -704,7 +707,19 @@ num2 = 32
 #     out = "num2"
 #     print(f"{out} is greatest")
 
+# out = "Num1" if num1 > num2 else "num2"
 
-out = "Num1" if num1 > num2 else "num2"
+# print(f"{out} is greatest")
 
-print(f"{out} is greatest")
+# data1 = 20
+# data2 = 30
+# output = "data1" if data1 > data2 else "data2"
+
+# print(f"{output} is less")
+
+
+data1 = 20
+data2 = 30
+output = "data1" if data1 < data2 else "data2"
+
+print(f"{output} is less")
