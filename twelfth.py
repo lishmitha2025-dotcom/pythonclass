@@ -415,3 +415,7 @@
 
 # student.update({"age":30}) 
 # print(student)
+
+
+
+print(2//1)
